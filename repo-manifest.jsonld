@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/django-floppyforms/commit/3c019feda452407522b61c71c1df373c7cc6152c",
       "git:hexsha": "3c019feda452407522b61c71c1df373c7cc6152c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jazzband/django-floppyforms/commit/a3fc1f316bd409c4df13ea15c425e1ea0c58a5f2",
